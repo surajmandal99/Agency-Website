@@ -693,5 +693,3 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
-
-Boost
